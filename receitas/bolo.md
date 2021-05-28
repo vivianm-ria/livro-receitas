@@ -1,8 +1,8 @@
-#*Receita de Bolo de chocolate* 🎂
+# *Receita de Bolo de chocolate* 🎂
 ![Image](https://melepimenta.com/wp-content/uploads/2020/10/Bolo-cafe-chocolate-Baixa-7.jpg.webp)
 
 ---
-###Ingredientes
+### Ingredientes
  - 1 xícara de chá de leite
  - 1 xícara de chá de óleo de soja
  - 2 unidades de ovo
@@ -11,7 +11,7 @@
  - 1 xícara de chá de açúcar
  - 1 colheres de sopa de fermento químico em pó
 ---
-###Modo de Preparo 
+### Modo de Preparo 
 1. Coloque os líquidos no liquidificador e bata até misturar bem.
 2. Coloque os outros ingredientes, sendo o fermento o último.
 3. Leve para assar em forno médio, numa forma untada e enfarinhada.
